@@ -1,2 +1,2 @@
 # mad-libs
-Git and GitHub basics
+Practice Git and GitHub basics with mad libs
